@@ -1,4 +1,4 @@
-serial_no,date_of_consult,consultant_name,Total_chats,avg_response_time,avg_resolution_time,avg_rating,total_feedback
+serial_no,date_of_consult,consultant_name,Total_chats,avg_response_time(in secs),avg_resolution_time(in secs),avg_rating,total_feedback
 1,2022-07-30,Prerna Singh,11,38,260,4.11,9
 2,2022-07-30,Nandani Gupta,11,75,1705,3.14,7
 3,2022-07-30,Ameya Jain,14,30,696,4.55,11
